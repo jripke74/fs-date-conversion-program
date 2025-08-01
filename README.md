@@ -1,5 +1,7 @@
 # fs-date-conversion-program
 
+In this lab, you'll build a program to convert a date from one format to another.
+
 Build a Date Conversion Program
 In this lab, you will code a date conversion program that converts a given date to different formats. For example, the current date Fri Sep 27 2024 16:04:43 GMT+0500 (Pakistan Standard Time) would be formatted in the following 2 ways:
 
